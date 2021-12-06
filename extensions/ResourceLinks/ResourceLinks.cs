@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 
 
-namespace HALHelpers.ResourceLinks
+namespace Extenstions.ResourceLinks
 {
     public record ResourceHref(string Href);
     public record ResourceTemplated(string Href, bool Templated);

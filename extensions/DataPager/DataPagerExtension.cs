@@ -5,7 +5,7 @@ using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace HALHelpers.DataPager
+namespace Extenstions.DataPager
 {
     public class PagedModel<TModel>
     {
