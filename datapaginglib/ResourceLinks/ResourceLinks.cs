@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 
 
-namespace Extenstions.ResourceLinks
+namespace datapaginglib.ResourceLinks
 {
     public record ResourceHref(string Href);
     public record ResourceTemplated(string Href, bool Templated);

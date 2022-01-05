@@ -5,7 +5,7 @@ using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace Extenstions.DataPager
+namespace datapaginglib.DataPager
 {
     public class PagedModel<TModel>
     {
